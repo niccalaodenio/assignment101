@@ -8,7 +8,7 @@ I am more into coding.
 I am quit elated that I am part of their shortlisted for the first round of their technical interview. No matter what happen, I am grateful 
 that Bling's given me a chance to become part of this round. THank you Bling! God Bless you all and More Power!
 
-[Live Site]
+#Live Site
 https://niccalaodenio.github.io/assignment101/
 
 PS: this site is not fully responsive.
