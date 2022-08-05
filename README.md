@@ -10,3 +10,5 @@ that Bling's given me a chance to become part of this round. THank you Bling! Go
 
 [Live Site]
 https://niccalaodenio.github.io/assignment101/
+
+PS: this site is not fully responsive.
